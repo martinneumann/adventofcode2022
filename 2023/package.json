@@ -1,0 +1,7 @@
+{
+  "name": "aoc",
+  "scripts": {
+    "1": "node ./1/1.js"
+  },
+  "type": "module"
+}
