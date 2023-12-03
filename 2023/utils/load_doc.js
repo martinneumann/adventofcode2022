@@ -9,6 +9,10 @@ export const splitByNewlines = (text) => {
   return text.split("\n");
 };
 
+export const splitByChar = (text, char) => {
+  return text.split(char);
+};
+
 export const writeToFile = (input, path) => {
   fs.writeFileSync(path, input);
 };

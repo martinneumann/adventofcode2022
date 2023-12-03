@@ -1,7 +1,8 @@
 {
   "name": "aoc",
   "scripts": {
-    "1": "node ./1/1.js"
+    "1": "node ./1/1.js",
+    "2": "node ./2/2.js"
   },
   "type": "module"
 }
